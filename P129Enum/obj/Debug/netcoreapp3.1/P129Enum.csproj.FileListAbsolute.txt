@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Enum\bin\Debug\netcoreapp3.1\P129Enum.exe
+C:\Users\memme\Desktop\P129\Task\P129Enum\bin\Debug\netcoreapp3.1\P129Enum.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Enum\bin\Debug\netcoreapp3.1\P129Enum.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Enum\bin\Debug\netcoreapp3.1\P129Enum.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Enum\bin\Debug\netcoreapp3.1\P129Enum.dll
+C:\Users\memme\Desktop\P129\Task\P129Enum\bin\Debug\netcoreapp3.1\P129Enum.pdb
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.dll
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.pdb
+C:\Users\memme\Desktop\P129\Task\P129Enum\obj\Debug\netcoreapp3.1\P129Enum.genruntimeconfig.cache

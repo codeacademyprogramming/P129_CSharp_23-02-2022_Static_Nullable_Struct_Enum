@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Struct\bin\Debug\netcoreapp3.1\P129Struct.exe
+C:\Users\memme\Desktop\P129\Task\P129Struct\bin\Debug\netcoreapp3.1\P129Struct.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Struct\bin\Debug\netcoreapp3.1\P129Struct.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Struct\bin\Debug\netcoreapp3.1\P129Struct.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Struct\bin\Debug\netcoreapp3.1\P129Struct.dll
+C:\Users\memme\Desktop\P129\Task\P129Struct\bin\Debug\netcoreapp3.1\P129Struct.pdb
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.dll
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.pdb
+C:\Users\memme\Desktop\P129\Task\P129Struct\obj\Debug\netcoreapp3.1\P129Struct.genruntimeconfig.cache
